@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Plan Well Heh",
+    "modifier": 40.0,
+    "productionCostModifier": 40.0,
+    "goldCostModifier": 40.0,
+    "scienceCostModifier": 40.0,
+    "cultureCostModifier": 40.0,
+    "faithCostModifier": 40.0,
+    "improvementBuildLengthModifier": 40.0,
+    "barbarianModifier": 40.0,
+    "goldGiftModifier": 40.0,
+    "cityStateTributeScalingInterval": 40.0,
+    "goldenAgeLengthModifier": 40,
+    "religiousPressureAdjacentCity": 12,
+    "peaceDealDuration": 100,
+    "dealDuration": 40,
+    "startYear": -40000,
+    "turns":
+    [
+      {
+        "yearsPerTurn":  1, 
+        "untilTurn": 800000
+      },
+     ]
+    },
+]
