@@ -235,7 +235,7 @@
     },
 //Start of Flat Speeds (these are more for funzies and aren't really balanced)
   {
-    "name": "One to One",
+    "name": "TimeStop",
     "modifier": 3.0,
     "productionCostModifier": 20.0,
     "goldCostModifier": 20.0,
